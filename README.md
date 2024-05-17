@@ -2,8 +2,8 @@
 
 Meu nome é Jeová gonzalez da conceição silva  
 
-- Estou estudando na alura
-- Estou me desenvolvendo na linguagem javasscript
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem Javasscript
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
 ### entrar em contato comigo
